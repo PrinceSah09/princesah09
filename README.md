@@ -45,7 +45,7 @@ Solutions and notes covering data structures, algorithms, and common interview p
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/princesah/) · [Email](mailto:pbaba7001@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/princesah/) · [GitHub](https://github.com/PrinceSah09) · [Email](mailto:pbaba7001@gmail.com)
 
 <br />
 
