@@ -28,12 +28,12 @@ Currently working with React, Next.js, Python/FastAPI, Node.js, TypeScript, Post
 
 | Project | Stack | Links |
 | --- | --- | --- |
-| **CloudFront Infrastructure POC** | Terraform, Ansible, S3, CloudFront | [Repository](https://github.com/PrinceSah09/cloudfront-poc) |
-| **SentinelOps** | Observability, Automation, AWS | — |
-| **Nafs** | Next.js, TypeScript, Maps, Authentication | [Live](https://nafs.org.in) |
-| **FormForge** | React, Forms, RBAC, Real-time Data | [Live](https://formforgeee.netlify.app) |
-| **PixelBazar** | React, Unsplash API, OAuth | [Live](https://pixelbazarr.netlify.app) |
-| **FinWise** | AI, Finance, Full Stack | — |
+| **CloudFront Infrastructure POC** | Terraform · Ansible · S3 · CloudFront | [Repository](https://github.com/PrinceSah09/cloudfront-poc) |
+| **SentinelOps** | Observability · Automation · AWS | — |
+| **Nafs** | Next.js · TypeScript · Maps · Authentication | [Live](https://nafs.org.in) |
+| **FormForge** | React · Forms · RBAC · Real-time Data | [Live](https://formforgeee.netlify.app) |
+| **PixelBazar** | React · Unsplash API · OAuth | [Live](https://pixelbazarr.netlify.app) |
+| **FinWise** | AI · Finance · Full Stack | — |
 
 ---
 
@@ -45,7 +45,7 @@ System Design · Distributed Systems · Cloud Architecture · Infrastructure Aut
 
 ## Profiles & Contact
 
-[Portfolio](https://princekumar09.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/princesah/) · [Instagram](https://www.instagram.com/the_prince_saha/) · [Email](mailto:pbaba7001@gmail.com)
+[Portfolio](https://princekumar09.netlify.app/) · [Portfolio 2.0](https://portfolio-2-0-ten-mu.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/princesah/) · [Instagram](https://www.instagram.com/the_prince_saha/) · [Email](mailto:pbaba7001@gmail.com)
 
 ---
 
