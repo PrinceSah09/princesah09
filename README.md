@@ -1,53 +1,90 @@
 # Prince Kumar
 
-**Software Engineer · Full Stack · AWS · SRE**
+**Software Engineer | Full Stack | AWS | SRE**
 
-I build web applications and the infrastructure behind them.
+I build and operate software across the application and infrastructure layers.
 
-My background is in full-stack development, and today I work across **AWS, CI/CD, infrastructure automation, containers, and production reliability**. I like being close to both the code and the systems that run it.
+My experience started in full-stack development and has grown into cloud and reliability engineering. I work with application code, APIs, databases, AWS infrastructure, CI/CD, containers, infrastructure as code, deployment automation, monitoring, and production support.
 
-Currently working with **React, Python/FastAPI, Node.js, AWS, Docker, Kubernetes, Terraform, Ansible, and PostgreSQL**.
-
----
-
-### What I work on
-
-```text
-Application        React · Next.js · Node.js · FastAPI · TypeScript
-Cloud              AWS · S3 · CloudFront · WAF · IAM
-Infrastructure     Terraform · Ansible
-Containers         Docker · Kubernetes
-Data               PostgreSQL · MongoDB · Redis
-Reliability        CI/CD · Monitoring · Observability · Production Support
-```
-
-### Selected work
-
-**[CloudFront POC](https://github.com/PrinceSah09/cloudfront-poc)**  
-AWS infrastructure project using Terraform and Ansible to provision and deploy multiple static applications through S3 and CloudFront.
-
-**SentinelOps**  
-A self-healing observability project focused on detecting failures, automating remediation, and improving system reliability.
-
-**[DSA & Problem Solving](https://github.com/PrinceSah09/Strivers-AtoZ-DSA-Sheet-Solution)**  
-Solutions and notes covering data structures, algorithms, and common interview patterns.
+Currently working with React, Next.js, Python/FastAPI, Node.js, TypeScript, PostgreSQL, AWS, Docker, Kubernetes, Terraform, and Ansible.
 
 ---
 
-### A little more about me
+## Areas of Focus
 
-- 🧩 I enjoy breaking down complex systems and understanding how they work end-to-end.
-- ☁️ Currently going deeper into **AWS, Kubernetes, Terraform, observability, and distributed systems**.
-- 🤖 Exploring **AI-assisted software development** and how AI can improve engineering workflows.
-- 🛠️ I prefer simple solutions, automation where it makes sense, and systems that are easy to operate.
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, React Native, TypeScript |
+| Backend | Python, FastAPI, Node.js, REST APIs |
+| Cloud | AWS, S3, CloudFront, WAF, IAM |
+| Infrastructure | Terraform, Ansible |
+| Containers | Docker, Kubernetes |
+| Data | PostgreSQL, MongoDB, Redis |
+| Reliability | CI/CD, Monitoring, Observability, Production Support |
 
 ---
 
-### Connect
+## Selected Work
 
-[LinkedIn](https://www.linkedin.com/in/princesah/) · [GitHub](https://github.com/PrinceSah09) · [Email](mailto:pbaba7001@gmail.com)
+### CloudFront Infrastructure POC
 
-<br />
+A hands-on AWS infrastructure project focused on hosting and routing multiple static applications through S3 and CloudFront. Infrastructure is provisioned with Terraform and deployment operations are automated with Ansible.
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceSah09&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSah09&layout=compact&hide_border=true" height="165" />
+[Repository](https://github.com/PrinceSah09/cloudfront-poc)
+
+### SentinelOps
+
+A self-healing observability project exploring automated detection, remediation, and operational reliability for production systems.
+
+### Nafs
+
+An anonymous emotional expression platform with real-time content, emotion-based posts, interactive maps, journaling, letters, authentication, and a multi-theme interface.
+
+[Live application](https://nafs.org.in)
+
+### FormForge
+
+A form-building platform designed as an alternative to traditional form tools, with custom validation, role-based access control, and real-time data handling.
+
+[Live application](https://formforgeee.netlify.app)
+
+### PixelBazar
+
+An image discovery platform using the Unsplash API with authentication, Google OAuth, infinite scrolling, and protected download routes.
+
+[Live application](https://pixelbazarr.netlify.app)
+
+### FinWise
+
+An AI-powered expense management and financial literacy platform built around helping students understand and manage their finances.
+
+---
+
+## Engineering Interests
+
+I am particularly interested in system design, distributed systems, cloud architecture, infrastructure automation, observability, and building reliable production systems.
+
+I am also exploring AI-assisted software engineering and practical ways to use AI throughout the development lifecycle.
+
+---
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/princesah/)
+- [GitHub](https://github.com/PrinceSah09)
+- [Email](mailto:pbaba7001@gmail.com)
+- [Portfolio Repository](https://github.com/PrinceSah09/portfolio-2.0)
+
+---
+
+## Problem Solving
+
+I also maintain repositories for data structures, algorithms, and interview preparation.
+
+- [Striver's A2Z DSA Solutions](https://github.com/PrinceSah09/Strivers-AtoZ-DSA-Sheet-Solution)
+- [LeetCode Solutions](https://github.com/PrinceSah09/LeetCode_Solutions)
+- [Company-wise LeetCode Questions](https://github.com/PrinceSah09/leetcode_company_wise_questions)
+
+---
+
+If you are interested in software engineering, cloud infrastructure, SRE, system design, or building products end-to-end, feel free to connect.
