@@ -68,7 +68,7 @@ A React application integrating image discovery and authentication.
 
 ## Find Me Online
 
-[Portfolio](https://princekumar09.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/princesah/) · [X](https://x.com/Princesah009) · [Instagram](https://www.instagram.com/the_prince_saha/) · [Email](mailto:pbaba7001@gmail.com)
+[Portfolio](https://princekumar09.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/princesah/) · [X](https://x.com/Princesah009) · [Instagram](https://www.instagram.com/the_prince_saha/) · [Email](mailto:dev.prince2002@gmail.com)
 
 ---
 
