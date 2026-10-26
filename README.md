@@ -29,7 +29,7 @@ I'm especially interested in making deployments repeatable, systems easier to op
 
 ## Selected Projects
 
-### [SimianX](https://github.com/PrinceSah09/ScaleKart)
+### [SimianX](https://github.com/PrinceSah09/simianX)
 A cloud-native reliability and DevOps learning platform focused on experimenting with service behavior, load, and observability.
 
 **Focus:** Python · FastAPI · Docker · Kubernetes · Prometheus · Grafana
