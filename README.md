@@ -1,52 +1,75 @@
 # Prince Kumar
 
-**Software Engineer | Full Stack | AWS | SRE**
+**Software Engineer · DevOps / SRE · AWS Cloud**
 
-I build and operate software across the application and infrastructure layers.
+I build software and the infrastructure that keeps it reliable. My work spans application development, AWS infrastructure, CI/CD automation, containerized deployments, infrastructure as code, and observability.
 
-My experience started in full-stack development and has grown into cloud and reliability engineering. I work with application code, APIs, databases, AWS infrastructure, CI/CD, containers, infrastructure as code, deployment automation, monitoring, and production support.
+I'm especially interested in making deployments repeatable, systems easier to operate, and production issues easier to understand.
 
-Currently working with React, Next.js, Python/FastAPI, Node.js, TypeScript, PostgreSQL, AWS, Docker, Kubernetes, Terraform, and Ansible.
+- **Currently focused on:** AWS, Terraform, Kubernetes, CI/CD, and observability
+- **Application stack:** React, Next.js, TypeScript, Python, FastAPI, and REST APIs
+- **Certifications:** AWS Certified Solutions Architect – Associate · AWS Certified CloudOps Engineer – Associate
+- **Based in:** India · Open to remote and hybrid opportunities
 
 ---
 
-## Areas of Focus
+## Tech Stack
 
-| Area | Technologies |
+| Area | Tools and technologies |
 | --- | --- |
-| Frontend | React, Next.js, React Native, TypeScript |
-| Backend | Python, FastAPI, Node.js, REST APIs |
-| Cloud | AWS, S3, CloudFront, WAF, IAM |
-| Infrastructure | Terraform, Ansible |
-| Containers | Docker, Kubernetes |
-| Data | PostgreSQL, MongoDB, Redis |
-| Reliability | CI/CD, Monitoring, Observability, Production Support |
+| **Cloud** | AWS, IAM, VPC, EC2, S3, CloudFront, WAF, CloudWatch |
+| **Infrastructure as Code** | Terraform, CloudFormation |
+| **Automation & CI/CD** | Ansible, Azure DevOps, Bitbucket Pipelines, GitHub Actions |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm, Argo CD |
+| **Observability** | Prometheus, Grafana, Loki, OpenTelemetry |
+| **Development** | Python, FastAPI, TypeScript, React, Next.js, Node.js |
+| **Data & Systems** | PostgreSQL, MongoDB, Redis, Linux, Bash |
 
 ---
 
-## Selected Work
+## Selected Projects
 
-| Project | Stack | Links |
-| --- | --- | --- |
-| **CloudFront Infrastructure POC** | Terraform · Ansible · S3 · CloudFront | [Repository](https://github.com/PrinceSah09/cloudfront-poc) |
-| **SentinelOps** | Observability · Automation · AWS | — |
-| **Nafs** | Next.js · TypeScript · Maps · Authentication | [Live](https://nafs.org.in) |
-| **FormForge** | React · Forms · RBAC · Real-time Data | [Live](https://formforgeee.netlify.app) |
-| **PixelBazar** | React · Unsplash API · OAuth | [Live](https://pixelbazarr.netlify.app) |
-| **FinWise** | AI · Finance · Full Stack | — |
+### [SimianX](https://github.com/PrinceSah09/ScaleKart)
+A cloud-native reliability and DevOps learning platform focused on experimenting with service behavior, load, and observability.
+
+**Focus:** Python · FastAPI · Docker · Kubernetes · Prometheus · Grafana
+
+### [CloudFront Infrastructure POC](https://github.com/PrinceSah09/cloudfront-poc)
+An infrastructure-as-code project exploring AWS S3 and CloudFront deployment patterns.
+
+**Focus:** AWS · Terraform · Ansible · S3 · CloudFront
+
+### [Nafs](https://nafs.org.in)
+A web application built with a modern TypeScript-based stack.
+
+**Focus:** Next.js · TypeScript · Maps · Authentication
+
+### [FormForge](https://formforgeee.netlify.app)
+A form-focused application with role-based access and real-time data features.
+
+**Focus:** React · Forms · RBAC · Real-time data
+
+### [PixelBazar](https://pixelbazarr.netlify.app)
+A React application integrating image discovery and authentication.
+
+**Focus:** React · Unsplash API · OAuth
 
 ---
 
-## Engineering Interests
+## What I'm Exploring
 
-System Design · Distributed Systems · Cloud Architecture · Infrastructure Automation · Observability · Production Reliability · AI-assisted Engineering
-
----
-
-## Profiles & Contact
-
-[Portfolio](https://princekumar09.netlify.app/) · [Portfolio 2.0](https://portfolio-2-0-ten-mu.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/princesah/) · [Instagram](https://www.instagram.com/the_prince_saha/) · [Email](mailto:pbaba7001@gmail.com)
+- Cloud architecture and infrastructure automation
+- Kubernetes operations and deployment strategies
+- Reliability engineering, monitoring, and observability
+- CI/CD security and safer software delivery
+- Distributed systems and practical system design
 
 ---
 
-I’m interested in building reliable products, improving engineering workflows, and solving problems across software and infrastructure.
+## Find Me Online
+
+[Portfolio](https://princekumar09.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/princesah/) · [X](https://x.com/Princesah009) · [Instagram](https://www.instagram.com/the_prince_saha/) · [Email](mailto:pbaba7001@gmail.com)
+
+---
+
+*Building reliable systems, one improvement at a time.*
